@@ -1,6 +1,6 @@
 <p align="center">
 
-   <img src="https://cdn.jsdelivr.net/gh/NRSX/XrayR-V2Board/0220412220046.jpg" alt="AList Logo" width=200/>
+   <img src="https://cdn.jsdelivr.net/gh/NRSX/XrayR-V2Board/0220412220046.jpg" alt="AList Logo" >
 
 </p>
 
