@@ -4,8 +4,6 @@
 
 </p>
 
-<h2 align="center">NRSXの网盘</h2>
-
 ### 联系我
 
 - 👋 Telegram：[@客服](https://t.me/nrsxa "@客服")
