@@ -1,7 +1,7 @@
 <p align="center">
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/NRSX/XrayR-V2Board/0220412220046.jpg" alt="AList Logo" width=200/>
-  </p>
+
+   <img src="https://cdn.jsdelivr.net/gh/NRSX/XrayR-V2Board/0220412220046.jpg" alt="AList Logo" width=200/>
+
 </p>
 
 <h2 align="center">NRSXの网盘</h2>
